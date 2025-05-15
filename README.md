@@ -93,7 +93,7 @@
 <body>
 
   <header>
-    <img src="logo.jpeg" alt="Buff Bros Logo" />
+    <img src="logo.jpeg" alt="Buff Bros Logo" 
     <h1>Buff Bros</h1>
     <p>Specialized Details and More</p>
   </header>
@@ -114,6 +114,7 @@
         <li>Level 1: no extra cost</li>
         <li>Level 2: +$20</li>
         <li>Level 3: +$40</li>
+        <li>Level 4: +$60</li>
       </ul>
 
       <h3>Exterior Wash</h3>
