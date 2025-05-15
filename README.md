@@ -131,10 +131,10 @@
   <section id="gallery" class="section">
     <h2>Image Gallery</h2>
     <div class="gallery">
-      <img src="https://via.placeholder.com/300x200?text=Before+1" alt="Before 1" />
-      <img src="https://via.placeholder.com/300x200?text=After+1" alt="After 1" />
-      <img src="https://via.placeholder.com/300x200?text=Before+2" alt="Before 2" />
-      <img src="https://via.placeholder.com/300x200?text=After+2" alt="After 2" />
+     <img src="images/unnamed (1).png" alt="Before 1" />
+    <img src="images/unnamed (2).png" alt="After 1" />
+    <img src="images/unnamed.jpg" alt="Before 2" />
+    <img src="images/unnamed.png" alt="After 2" />
     </div>
   </section>
 
